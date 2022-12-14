@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: blue;
+}
+p {
+    font-size: 2em;
+    text-align: center;
+}
+.opciones {
+    display: flex;
+    justify-content: space-between;
+    margin: 3em 1em;
+}
+button {
+    height: 2em;
+    width: 2em;
+    font-size: 2em;
+}
