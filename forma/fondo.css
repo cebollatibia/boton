@@ -6,7 +6,7 @@ main {
     display: grid;
     place-items: center;
     height: 100vh;
-    background-color: blue;
+    background-color: rgba(35, 35, 167, 0.623);
 }
 p {
     font-size: 2em;
@@ -21,4 +21,10 @@ button {
     height: 2em;
     width: 2em;
     font-size: 2em;
+}
+.opcionesbutton {
+    background-color: blue;
+    border-radius: 30%;
+    border-style: groove;
+
 }
