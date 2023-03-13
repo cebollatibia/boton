@@ -1,6 +1,6 @@
 const yesbtn = document.querySelector('#botonsi')
 yesbtn.addEventListener('click', ()=>{
-    alert('sabia que si podias')
+    alert('sabia que si qurias')
 })
 const nobtn = document.querySelector('#botonno')
 nobtn.addEventListener('mouseover', ()=>{
